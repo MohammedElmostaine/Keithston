@@ -493,6 +493,23 @@
 .contact-data textarea{
     height: 20%;
     background-color: rgba(0, 0, 0, 0.461);
+    border: none    ;
+    resize: none;
+}
+.contact-data button{
+    background-color: #933C24;
+    border: none    ;
+    font-family: 'Inter', sans-serif; 
+    background-size: auto;
+    width: 40%;
+    color: white;
+    border-radius: 10px;
+}
+
+.contact-data button a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
 }
 
 
